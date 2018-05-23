@@ -1,6 +1,6 @@
 # dbfig
 
-This is a matlab system for saving and retrieving figures and accompanying data.
+A matlab system for saving and retrieving figures and accompanying data.
 
 Developers: Jeremy Magland and Charlie Epstein
 
