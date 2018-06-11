@@ -50,11 +50,11 @@ See the test example for more details.
 Configuration of the storage path (by default it is /tmp/dbfig_storage):
 If you use the setenv('DBFIG_HOME_DIR',dir) in MATLAB, then the program
 ```
-difig_storage_path
+dbfig_storage_path
 ```
 (creates) uses the directory DBFIG_HOME_DIR/.dbfig to store the images and associated data. With an argument
 ```
-difig_storage_path(path)
+dbfig_storage_path(path)
 ```
 this program stores its data in path.
 
